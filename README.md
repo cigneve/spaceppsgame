@@ -1,1 +1,2 @@
 # spaceppsgame
+Currently binary only
